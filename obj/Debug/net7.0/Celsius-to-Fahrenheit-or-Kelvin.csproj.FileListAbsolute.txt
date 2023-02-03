@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\bin\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.exe
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\bin\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.deps.json
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\bin\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\bin\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.dll
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\bin\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.pdb
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\obj\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\obj\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\obj\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\obj\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\obj\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\obj\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.dll
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\obj\Debug\net7.0\refint\Celsius-to-Fahrenheit-or-Kelvin.dll
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\obj\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.pdb
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\obj\Debug\net7.0\Celsius-to-Fahrenheit-or-Kelvin.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Celsius-to-Fahrenheit-or-Kelvin\obj\Debug\net7.0\ref\Celsius-to-Fahrenheit-or-Kelvin.dll
